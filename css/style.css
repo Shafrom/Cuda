@@ -229,16 +229,16 @@ html {
   height: 200px;
 }
 .annHathaway {
-  background: url('./img/Ann_Hathaway.jpg') center top/cover;
+  background: url('../img/Ann_Hathaway.jpg') center top/cover;
 }
 .kateUpton {
-  background: url('./img/Kate_Upton.jpg') center top/cover;
+  background: url('../img/Kate_Upton.jpg') center top/cover;
 }
 .oliviaWild {
-  background: url('./img/Olivia_Wild.jpg') center top/cover;
+  background: url('../img/Olivia_Wild.jpg') center top/cover;
 }
 .ashleyGreene {
-  background: url('./img/Ashley_Greene.jpg') center top/cover;
+  background: url('../img/Ashley_Greene.jpg') center top/cover;
 }
 .team__title {
   font-size: 24px;
